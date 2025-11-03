@@ -1,29 +1,36 @@
-# Hi, I'm Shailesh Padwal 👋  
+# 👋 Hi, I'm Shailesh Padwal  
+**Frontend Developer | React.js | JavaScript (ES6+) | REST APIs**
 
-Aspiring **Full-Stack Developer** | **React.js** | **Node.js**  
-
-🚀 Passionate about web development and solving real-world problems with code.  
-📢 Open to **collaborations**, **internships**, and **new opportunities**.  
-
----
-
-## 🔹 Skills  
-- **Frontend:** HTML, CSS, JavaScript, React.js  
-- **Backend:** Node.js, Express.js, MongoDB  
-- **Tools:** Git, GitHub, VS Code, Postman  
+🚀 Passionate about building modern, responsive, and user-friendly web applications.  
+Currently working as a **Frontend Developer** at **Nuwebwave Technologies**, focusing on **React.js**, **API integration**, and **UI performance optimization**.
 
 ---
 
-## 📌 Projects  
-- **Full Stack Blog App** – A blog platform with authentication and CRUD.  
-- **World Atlas Explorer** – A country data explorer using REST API.  
-- **Portfolio Website** – A personal portfolio built with React.js.  
+### 🔧 Tech Stack
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, PostgreSQL  
+- **Tools:** Git, GitHub, VS Code, Postman, Cloudinary  
 
 ---
 
-## 📫 Connect With Me  
-[LinkedIn](https://linkedin.com/in/padwal-shailesh) | [GitHub](https://github.com/sspadwal) | [Email](mailto:sspadwal1002@gmail.com)  
+### 📌 Featured Projects
+🔹 [**Modern Blog Management System**](#)  
+Full-featured blog platform built with **React.js**, **Redux Toolkit**, and **Appwrite**, allowing users to create, edit, and manage posts securely.  
+
+🔹 [**DevMindAI - AI Content Generation Platform**](#)  
+A full-stack SaaS app integrating **Google Gemini API**, **Clipdrop**, and **Cloudinary AI tools** for generating and managing AI-based content.  
+
+🔹 [**Portfolio Website**](https://shailesh-padwal.vercel.app)  
+Personal portfolio built with **Next.js**, **Framer Motion**, and **Tailwind CSS**, showcasing my projects and skills.  
 
 ---
 
-Looking forward to learning, growing, and building awesome projects! 🚀  
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/padwal-shailesh/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/sspadwal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://shailesh-padwal.vercel.app/)
+
+---
+
+✨ *Always learning, building, and improving as a modern web developer.*
