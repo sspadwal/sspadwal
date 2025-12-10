@@ -29,7 +29,7 @@ Personal portfolio built with **Next.js**, **Framer Motion**, and **Tailwind CSS
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/padwal-shailesh/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/sspadwal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://shailesh-padwal.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://sspadwal.vercel.app/)
 
 ---
 
