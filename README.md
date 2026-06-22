@@ -21,7 +21,7 @@ Full-featured blog platform built with **React.js**, **Redux Toolkit**, and **Ap
 🔹 [**DevMindAI - AI Content Generation Platform**](#)  
 A full-stack SaaS app integrating **Google Gemini API**, **Clipdrop**, and **Cloudinary AI tools** for generating and managing AI-based content.  
 
-🔹 [**Portfolio Website**](https://shailesh-padwal.vercel.app)  
+🔹 [**Portfolio Website**](https://shaileshpadwal.vercel.app)  
 Personal portfolio built with **Next.js**, **Framer Motion**, and **Tailwind CSS**, showcasing my projects and skills.  
 
 ---
